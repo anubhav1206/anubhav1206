@@ -8,7 +8,7 @@ Experienced front-end web developer and open-source contributor skilled in React
 
 ## 🔭 My Projects
 
-Here are some of the projects I've been working on:
+Here are some of the projects I've worked on:
 
 1. [AI Image Generator](https://github.com/anubhav1206/AI-image-generator)- A fully responsive text-to-image AI web app built with React that generates 1024x1024 images based on the prompt provided.
    [Live Site](https://anubhav-ai-image-generator.netlify.app/)
