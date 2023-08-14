@@ -12,8 +12,9 @@ Here are some of the projects I've worked on:
 
 1. [AI Image Generator](https://github.com/anubhav1206/AI-image-generator)- A fully responsive text-to-image AI web app built with React that generates 1024x1024 images based on the prompt provided.
    [Live Site](https://anubhav-ai-image-generator.netlify.app/)
-2. [Space Travel Website](https://github.com/anubhav1206/the-space-travel-website) - An interactive and immersive space travel website built using HTML CSS and Javascript. [Live Site](https://anubhav-space-travel-website.netlify.app/)
-3. [Meme Generator](https://github.com/anubhav1206/meme-generator) - A very fun meme generator developed with NextJs on top of React and Tailwind. [Live Site](https://anubhav-meme-generator.vercel.app/)
+2. [Meme Generator](https://github.com/anubhav1206/meme-generator) - A very fun meme generator developed with NextJs on top of React and Tailwind. [Live Site](https://anubhav-meme-generator.vercel.app/)
+3. [Metaverse Website](https://github.com/anubhav1206/metaverse-website) - An immersive and fully responsive metaverse website built on React and Next Js and uses framer motion for beautiful animations. [Live Site](https://anubhav-metaverse.netlify.app/)
+4. [Space Travel Website](https://github.com/anubhav1206/the-space-travel-website) - An interactive and immersive space travel website built using HTML CSS and Javascript. [Live Site](https://anubhav-space-travel-website.netlify.app/)
 
 ## 🌱 I’m Currently Learning
 
